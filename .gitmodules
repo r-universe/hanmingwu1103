@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "dataSDA"]
 	path = dataSDA
-	url = https://github.com/cran/dataSDA
+	url = https://github.com/hanmingwu1103/datasda
