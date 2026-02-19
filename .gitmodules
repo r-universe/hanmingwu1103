@@ -5,3 +5,6 @@
 [submodule "dataSDA"]
 	path = dataSDA
 	url = https://github.com/hanmingwu1103/datasda
+[submodule "dtGAP"]
+	path = dtGAP
+	url = https://github.com/hanmingwu1103/dtgap
