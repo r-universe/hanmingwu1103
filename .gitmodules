@@ -8,3 +8,6 @@
 [submodule "dtGAP"]
 	path = dtGAP
 	url = https://github.com/hanmingwu1103/dtgap
+[submodule "ggInterval"]
+	path = ggInterval
+	url = https://github.com/hanmingwu1103/gginterval
